@@ -1,0 +1,19 @@
+* Variables:
+
+Una variable es como un lugar donde podes guardar cosas para luego usarlas. Es como un cajon de zapatillas. del cual podes guardar una zapatilla o varias zapatillas, la diferencia alli seria que esa variable contendria una lista de zapatillas.
+
+* Strings:
+
+Un string es una cadena de letras y/o palbras, de los cuales van dentro de comillas simples o dobles pero no una mezcla de ambos.
+
+* Funciones (argumentos, `return`):
+
+Una funcion es codigo que permite recibir valores(o no) y tratarlos para luego retornar un valor. Sino retornace un valor sera un procedimiento, un procedimiento es un codigo o rutina que hace algo.
+
+* Declaraciones `if`
+
+Con las Declaraciones if lo que hacemos es realizar toma de decisiones basandonos en valores verdaderos y falsos, en cierto modo seria mas bien como comparaciones. si planteamos un caso en que si un joven tiene 18 años es mayo pero si tuviera 17 pues no lo es. Esto serviria mas bien si el joven quisiera por ejemplo obtener licencia de conducir vehiculos.
+
+* Valores booleanos (`true`, `false`)
+
+Los valores booleanos son utilizados para tereminar si uina promesa es verdadera o falsa. Se utiliza mucho en Declaraciones if.
