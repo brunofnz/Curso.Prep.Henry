@@ -1,0 +1,9 @@
+* `for`
+
+For es un bucle en el cual conoce un valor determinado para luego iterarlo, supongamos que tenemos el tamaño del arreglo para recorrerlo.
+
+* `&&`, `||`, `!`
+
+Se los llama operadores de los cuales se utilizan para las declaraciones if, ayudan a realizar comparaciones tales como "el clima esta lluvioso" y (&&) "usare paraguas"
+"me comprare zapatillas nike" o (||) "me comprare zapatillas adidas"
+!"tengo sueño" >>>>> esto se conoceria como "No tengo sueño"
